@@ -1,7 +1,31 @@
-# RECIPES
+# Recipes
 Collection of recipes I have taken from various sources.
 
-I have tried to credit the author where I know them. Where unknown, I have left that field blank.
+Authors are credited where they are know, where they are not, this field is left blank.]
 
-<!-- Test link [Flapjacks](sweet/flapjacks)
- -->
+## Index of Recipes
+Recipes have been divided into sweet and savoury.
+
+*NB. Links are designed to work through the GitHub pages setup for this Repo [thomasboxall.github.io/recipes](https://thomasboxall.github.io/recipes) not through the `README.md` file.*
+
+### Savoury
+* [Chicken & Mushroom pie](savoury/chicken-mushroom-pie)
+* [Cod & Prawn fishcakes](savoury/cod-prawn-fishcakes)
+* [Cornish Pasty](savoury/cornish-pasty)
+* [Hunters Chicken](savoury/hunters-chicken)
+* [Shortcrust Pastry](savoury/shortcrust-pastry)
+* [Swedish Meatballs with Cream Sauce](savoury/swedish-meatballs-with-cream-sauce)
+* [Thai Green Curry](savoury/thai-green-curry)
+* [Three Cheese Macaroni](savoury/three-cheese-macaroni)
+* [Vegetable Samosas](savoury/vegetable-samosa)
+
+### Sweet
+* [Banoffi Pie](sweet/banoffi-pie)
+* [Bread and Butter Pudding](sweet/bread-and-butter-pudding)
+* [Chocolate Cheesecake](sweet/chocolate-cheesecake)
+* [Flapjacks](sweet/flapjacks)
+* [Marmalade Cake](sweet/marmalade-cake)
+* [Mocha Mousse](sweet/mocha-mousse)
+* [Pumpkin Pie](sweet/pumpkin-pie)
+* [Sticky Toffee Pudding](sweet/sticky-toffee-pudding)
+* [Treacle Tart](sweet/treacle-tart)
