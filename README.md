@@ -1,12 +1,12 @@
 # Recipes
 Collection of recipes I have taken from various sources.
 
-Authors are credited where they are know, where they are not, this field is left blank.]
+Authors are credited where they are know, where they are not, this field is left blank.
 
 ## Index of Recipes
 Recipes have been divided into sweet and savoury.
 
-*NB. Links are designed to work through the GitHub pages setup for this Repo [thomasboxall.github.io/recipes](https://thomasboxall.github.io/recipes) not through the `README.md` file.*
+*NB. Links are designed to work through the GitHub pages setup for this Repo [(thomasboxall.github.io/recipes)](https://thomasboxall.github.io/recipes) not through the `README.md` file.*
 
 ### Savoury
 * [Chicken & Mushroom pie](savoury/chicken-mushroom-pie)
