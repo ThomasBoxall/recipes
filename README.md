@@ -9,9 +9,11 @@ Recipes have been divided into sweet and savoury.
 *NB. Links are designed to work through the GitHub pages setup for this Repo [(thomasboxall.github.io/recipes)](https://thomasboxall.github.io/recipes) not through the `README.md` file.*
 
 ### Savoury
+* [Bolognese Sauce](savoury/bolognese)
 * [Chicken & Mushroom pie](savoury/chicken-mushroom-pie)
 * [Cod & Prawn fishcakes](savoury/cod-prawn-fishcakes)
 * [Cornish Pasty](savoury/cornish-pasty)
+* [Basic Curry Sauce](savoury/curry-sauce)
 * [Garlic Broccoli](savoury/garlic-broccoli)
 * [Hunters Chicken](savoury/hunters-chicken)
 * [Macaroni & Cheese](savoury/macaroni-cheese)
