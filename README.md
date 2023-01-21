@@ -6,21 +6,23 @@ Authors are credited where they are know, where they are not, this field is left
 ## Index of Recipes
 Recipes have been divided into sweet and savoury.
 
-*NB. Links are designed to work through the GitHub pages setup for this Repo [(thomasboxall.github.io/recipes)](https://thomasboxall.github.io/recipes) not through the `README.md` file.*
+*NB. Links are designed to work through the GitHub pages setup for this Repo ([thomasboxall.github.io/recipes](https://thomasboxall.github.io/recipes)) not through the `README.md` file.*
 
 ### Savoury
 * [Bolognese Sauce](savoury/bolognese)
 * [Chicken & Mushroom pie](savoury/chicken-mushroom-pie)
 * [Cod & Prawn fishcakes](savoury/cod-prawn-fishcakes)
 * [Cornish Pasty](savoury/cornish-pasty)
-* [Basic Curry Sauce](savoury/curry-sauce)
+* [Curry Sauce](savoury/curry-sauce)
 * [Garlic Broccoli](savoury/garlic-broccoli)
 * [Hunters Chicken](savoury/hunters-chicken)
 * [Macaroni & Cheese](savoury/macaroni-cheese)
+* [Savoury Rice](savoury/savoury-rice)
 * [Shortcrust Pastry](savoury/shortcrust-pastry)
 * [Swedish Meatballs with Cream Sauce](savoury/swedish-meatballs-with-cream-sauce)
 * [Thai Green Curry](savoury/thai-green-curry)
 * [Three Cheese Macaroni](savoury/three-cheese-macaroni)
+* [Tomato Sauce](savoury/tomato-sauce)
 * [Vegetable Samosas](savoury/vegetable-samosa)
 
 ### Sweet
@@ -33,3 +35,4 @@ Recipes have been divided into sweet and savoury.
 * [Pumpkin Pie](sweet/pumpkin-pie)
 * [Sticky Toffee Pudding](sweet/sticky-toffee-pudding)
 * [Treacle Tart](sweet/treacle-tart)
+* [White Mice Graveyard](sweet/white-mice-graveyard)
