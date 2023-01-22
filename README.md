@@ -34,6 +34,7 @@ Recipes have been divided into sweet and savoury.
 * [Chocolate Brownie Cake](sweet/chocolate-brownie-cake)
 * [Chocolate Cheesecake](sweet/chocolate-cheesecake)
 * [Chocolate and Pistachio Fudge](sweet/chocolate-pistachio-fudge)
+* [Chocolate Zucchini Cake](sweet/chocolate-zucchini-cake)
 * [Flapjacks](sweet/flapjacks)
 * [Lemon Curd](sweet/lemon-curd)
 * [Marmalade Cake](sweet/marmalade-cake)
