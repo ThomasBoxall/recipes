@@ -1,5 +1,8 @@
 markdown: GFM
 theme: minima
 
+minima:
+  skin: dark
+
 header_pages:
 - README.md
