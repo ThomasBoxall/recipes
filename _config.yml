@@ -1,2 +1,5 @@
 markdown: GFM
 theme: minima
+
+header_pages:
+- README.md
