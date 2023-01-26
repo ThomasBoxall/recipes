@@ -1,5 +1,9 @@
 markdown: GFM
-theme: minima
+
+plugins:
+  - jekyll-remote-theme
+
+remote-theme: jekyll/minima
 
 minima:
   skin: dark
