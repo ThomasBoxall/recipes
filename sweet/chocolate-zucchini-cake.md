@@ -2,7 +2,7 @@
 From: Mum's red book
 | Servings | Prep Time | Cook Time | Difficulty | Diet | 
 |----------|-----------|-----------|------------|------|
-|  |  |  |  |  |
+| 4 sponge cakes | 15 mins | 30 mins | Medium | Veggie |
 
 ## Ingredients
 * 125g butter
@@ -24,6 +24,6 @@ From: Mum's red book
 2. Add eggs, vanilla essence and yoghurt
 3. Sift dry ingredients and combine all with zucchini.
 4. Put in tin and sprinkle with chocolate chips.
-5. Bake at 170oC for 45 mins
+5. Bake at 170oC for 30 minutes then check, cook for further time if a skewer doesn't come out clean
 
 ## Notes
