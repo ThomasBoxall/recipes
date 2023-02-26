@@ -38,6 +38,7 @@ Recipes have been divided into sweet and savoury.
 * [Chocolate and Pistachio Fudge](sweet/chocolate-pistachio-fudge)
 * [Chocolate Zucchini Cake](sweet/chocolate-zucchini-cake)
 * [Flapjacks](sweet/flapjacks)
+* [Ice Cream (Simple)](sweet/ice-cream-simple)
 * [Lemon Curd](sweet/lemon-curd)
 * [Marmalade Cake](sweet/marmalade-cake)
 * [Mocha Mousse](sweet/mocha-mousse)
