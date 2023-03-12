@@ -9,6 +9,7 @@ Recipes have been divided into sweet and savoury.
 *NB. Links are designed to work through the GitHub pages setup for this Repo ([thomasboxall.github.io/recipes](https://thomasboxall.github.io/recipes)) not through the `README.md` file.*
 
 ### Savoury
+
 {% assign doclist = site.pages | sort: 'url'  %}
 <ul>
    {% for doc in doclist %}
