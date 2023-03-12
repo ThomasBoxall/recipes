@@ -9,27 +9,14 @@ Recipes have been divided into sweet and savoury.
 *NB. Links are designed to work through the GitHub pages setup for this Repo ([thomasboxall.github.io/recipes](https://thomasboxall.github.io/recipes)) not through the `README.md` file.*
 
 ### Savoury
-* [Bolognese Sauce](savoury/bolognese)
-* [Chicken & Chorizo Jambalaya](savoury/chicken-chorizo-jambalaya)
-* [CHicken with Honey and Soy sauce](savoury/chicken-honey-soy)
-* [Chicken & Mushroom pie](savoury/chicken-mushroom-pie)
-* [Chicken Satay](savoury/chicken-satay)
-* [Cod & Prawn fishcakes](savoury/cod-prawn-fishcakes)
-* [Cornish Pasty](savoury/cornish-pasty)
-* [Curry Sauce](savoury/curry-sauce)
-* [Garlic Broccoli](savoury/garlic-broccoli)
-* [Hunters Chicken](savoury/hunters-chicken)
-* [Macaroni & Cheese](savoury/macaroni-cheese)
-* [Mongolian Beef](savoury/mongolian-beef)
-* [Quiche Lorraine](savoury/quiche-lorraine)
-* [Savoury Rice](savoury/savoury-rice)
-* [Shortcrust Pastry](savoury/shortcrust-pastry)
-* [Swedish Meatballs with Cream Sauce](savoury/swedish-meatballs-with-cream-sauce)
-* [Tandoori Chicken](savoury/tandoori-chicken)
-* [Thai Green Curry](savoury/thai-green-curry)
-* [Three Cheese Macaroni](savoury/three-cheese-macaroni)
-* [Tomato Sauce](savoury/tomato-sauce)
-* [Vegetable Samosas](savoury/vegetable-samosa)
+{% assign doclist = site.pages | sort: 'url'  %}
+<ul>
+   {% for doc in doclist %}
+        {% if doc.name contains '.md' and doc.dir contains 'savoury/' %}
+            <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.dir | url_decode | remove: "/savoury/" }}{{ doc.name }}</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
 
 ### Sweet
 * [Banoffi Pie](sweet/banoffi-pie)
