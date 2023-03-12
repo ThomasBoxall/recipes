@@ -1,2 +1,2 @@
-markdown: kramdown
+markdown: GFM
 remote_theme: ThomasBoxall/ghp-simple-dark
