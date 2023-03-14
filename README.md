@@ -11,7 +11,7 @@ Recipes have been divided into sweet and savoury.
 ### Savoury
 * [Bolognese Sauce](savoury/bolognese)
 * [Chicken & Chorizo Jambalaya](savoury/chicken-chorizo-jambalaya)
-* [CHicken with Honey and Soy sauce](savoury/chicken-honey-soy)
+* [Chicken with Honey and Soy sauce](savoury/chicken-honey-soy)
 * [Chicken & Mushroom pie](savoury/chicken-mushroom-pie)
 * [Chicken Satay](savoury/chicken-satay)
 * [Cod & Prawn fishcakes](savoury/cod-prawn-fishcakes)
@@ -24,6 +24,7 @@ Recipes have been divided into sweet and savoury.
 * [Quiche Lorraine](savoury/quiche-lorraine)
 * [Savoury Rice](savoury/savoury-rice)
 * [Shortcrust Pastry](savoury/shortcrust-pastry)
+* [Simple Pizza dough](savoury/simple-pizza)
 * [Slow Cooker Ribs](savoury/slow-cooker-ribs)
 * [Swedish Meatballs with Cream Sauce](savoury/swedish-meatballs-with-cream-sauce)
 * [Tandoori Chicken](savoury/tandoori-chicken)
