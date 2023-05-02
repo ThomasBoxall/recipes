@@ -9,7 +9,7 @@ Recipes have been divided into sweet and savoury.
 *NB. Links are designed to work through the GitHub pages setup for this Repo ([thomasboxall.github.io/recipes](https://thomasboxall.github.io/recipes)) not through the `README.md` file.*
 
 ### Savoury
-* [Bolognese Sauce](savoury/bolognese)
+<!-- * [Bolognese Sauce](savoury/bolognese)
 * [Chicken & Chorizo Jambalaya](savoury/chicken-chorizo-jambalaya)
 * [Chicken with Honey and Soy sauce](savoury/chicken-honey-soy)
 * [Chicken & Mushroom pie](savoury/chicken-mushroom-pie)
@@ -31,10 +31,19 @@ Recipes have been divided into sweet and savoury.
 * [Thai Green Curry](savoury/thai-green-curry)
 * [Three Cheese Macaroni](savoury/three-cheese-macaroni)
 * [Tomato Sauce](savoury/tomato-sauce)
-* [Vegetable Samosas](savoury/vegetable-samosa)
+* [Vegetable Samosas](savoury/vegetable-samosa) -->
+
+{% assign doclist = site.pages | sort: 'url'  %}
+<ul>
+{% for doc in doclist %}
+{% if doc.name contains '.md' and doc.dir contains 'savoury/' %}
+<li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.dir | url_decode | remove: "/savoury/" | remove: ".md" }}{{ doc.name }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
 
 ### Sweet
-* [Banoffi Pie](sweet/banoffi-pie)
+<!-- * [Banoffi Pie](sweet/banoffi-pie)
 * [Bread and Butter Pudding](sweet/bread-and-butter-pudding)
 * [Chocolate Brownie Cake](sweet/chocolate-brownie-cake)
 * [Chocolate Cheesecake](sweet/chocolate-cheesecake)
@@ -52,4 +61,12 @@ Recipes have been divided into sweet and savoury.
 * [Treacle Tart](sweet/treacle-tart)
 * [Waffles](sweet/waffles)
 * [White Mice Graveyard](sweet/white-mice-graveyard)
-* [Yoghurt Cake](sweet/yoghurt-cake)
+* [Yoghurt Cake](sweet/yoghurt-cake) -->
+{% assign doclist = site.pages | sort: 'url'  %}
+<ul>
+{% for doc in doclist %}
+{% if doc.name contains '.md' and doc.dir contains 'sweet/' %}
+<li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.dir | url_decode | remove: "/sweet/" | remove: ".md" }}{{ doc.name }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
